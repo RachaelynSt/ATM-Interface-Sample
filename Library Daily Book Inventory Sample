@@ -1,9 +1,4 @@
 
-//Name: Rachaelyn St. Denis
-//File: Assignment2.java
-//Description: Library Daily Book Inventory Program
-
-
 import java.util.Scanner;
 
 public class Assignment2 {
